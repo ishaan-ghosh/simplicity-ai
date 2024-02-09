@@ -1,14 +1,10 @@
-# Clarity AI
+# Simplicity AI
 
-Clarity is simple [perplexity.ai](https://www.perplexity.ai/) clone. Use the code for whatever you like! :)
-
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
-
-[![Clarity AI](./public/screenshot.png)](https://clarity-ai.vercel.app/)
+Simplicity is simple [perplexity.ai](https://www.perplexity.ai/) clone.
 
 ## How It Works
 
-Given a query, Clarity fetches relevant, up-to-date information from the web and uses OpenAI's API to generate an answer.
+Given a query, Simplicity fetches relevant, up-to-date information from the web and uses OpenAI's API to generate an answer.
 
 The app works as follows:
 
@@ -28,7 +24,7 @@ Get OpenAI API key [here](https://openai.com/api/).
 1. Clone repo
 
 ```bash
-git clone https://github.com/mckaywrigley/clarity-ai.git
+git clone https://github.com/ishaan-ghosh/simplicity-ai
 ```
 
 2. Install dependencies
@@ -52,11 +48,3 @@ Here are some ideas for how to improve Clarity:
 - [ ] Improve the prompt
 - [ ] Get sources working in non text-davinci-003 models
 - [ ] Train your own model to use for answer synthesis
-
-## Credits
-
-Shoutout to [Perplexity AI](https://www.perplexity.ai/) for the inspiration. I highly recommend checking their product out.
-
-This repo is meant to show people that you can build powerful apps like Perplexity even if you don't have a large, experienced team.
-
-LLMs are amazing, and I hope Clarity inspires you to build something cool!
